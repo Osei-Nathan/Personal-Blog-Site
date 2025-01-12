@@ -1,2 +1,6 @@
-# Expense-tracker
-A simple app to track daily expenses. Users can add, edit, and delete transactions, and see their total spending by category
+#persoanl blog site
+A minimalistic blog where you can post and edit articles.
+#Features:
+Admin panel for creating/editing posts
+Markdown support
+Pagination for blog posts
